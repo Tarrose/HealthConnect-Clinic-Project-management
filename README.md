@@ -1,6 +1,5 @@
 # HealthConnect-Clinic-Project-management
-
-# HealthConnect Clinic — No-Show Reduction & Patient Support AI System
+No-Show Reduction & Patient Support AI System
 Project Management Documentation
 
 # Overview
