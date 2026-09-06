@@ -10,11 +10,10 @@ Central project question: How can HealthConnect Clinic use data and AI to reduce
 
 # Project Status
 
-Process group (PMBOK): Initiating (Week 4) → moving into Planning (Week 5) Current phase: Phase 1 — Project Initiation (Week 4) — complete, pending Sponsor sign-off 
-Next step: Week 5 is Planning work — baseline the schedule, run schedule risk analysis on the critical path, finalise the Resource Management Plan and detailed Risk Register
+Process group (PMBOK): Initiating → Planning — both complete, pending Sponsor sign-off 
+Next step: Execution begins once the Planning baseline is signed off.
 
-
-# Project runs 31 Aug 2026 – 23 March 2027 (24 active weeks; December fully excluded).
+Project runs 31 Aug 2026 – 17 March 2027 (24 active weeks; December fully excluded).
 
 # Week 4 Tasks 
 - Project Charter
