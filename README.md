@@ -14,9 +14,15 @@ Process group (PMBOK): Initiating (Week 4) → moving into Planning (Week 5) Cur
 Next step: Week 5 is Planning work — baseline the schedule, run schedule risk analysis on the critical path, finalise the Resource Management Plan and detailed Risk Register
 
 
-# Project runs 31 Aug 2026 – 19 Feb 2027 (20 active weeks; December fully excluded).
+# Project runs 31 Aug 2026 – 23 March 2027 (24 active weeks; December fully excluded).
 
 # Week 4 Tasks 
 - Project Charter
 - Project Summary
 - Excel file with	Multi-tab workbook: Stakeholder Register, Work Breakdown Structure, Risk Register, Assumptions/Limitations/Risk Summary, Communication Plan, Dependency Register & Detailed timeline
+
+# Week 5 Tasks 
+- Task Tracker
+- Excel file with Quality and Resources management Plans
+- Excel file with Project Budget
+- Excel file with Network diagram, Project schedule and Critical Path analysis 
