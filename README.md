@@ -24,4 +24,10 @@ Project runs 31 Aug 2026 – 17 March 2027 (24 active weeks; December fully excl
 - Task Tracker
 - Excel file with Quality and Resources management Plans
 - Excel file with Project Budget
-- Excel file with Network diagram, Project schedule and Critical Path analysis 
+- Excel file with Network diagram, Project schedule and Critical Path analysis
+- Week 5 Summary
+
+# Week 6 Tasks 
+- Workstream Integration Map
+- Excel sheet with updated timeline; intergration dependency register, ; intergration issue log; decision log; updated risk register; coordination record
+- Week 6 Project Summary
