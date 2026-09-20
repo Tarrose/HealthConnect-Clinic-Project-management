@@ -31,3 +31,7 @@ Project runs 31 Aug 2026 – 17 March 2027 (24 active weeks; December fully excl
 - Workstream Integration Map
 - Excel sheet with updated timeline; intergration dependency register, ; intergration issue log; decision log; updated risk register; coordination record
 - Week 6 Project Summary
+
+# Week 7 Tasks 
+- Excel file with Testing & Validation Plan, Updated Timeline, Testing Activity Tracker, Integration & Issue Log, Updated Risk/Dependency Register, Decision Log, Coordination Record, Testing & Validation Record and Week 8 Readiness Assessment
+- Testing Coordination & Project Readiness Report (includes cross-track testing evidence, end-to-end validation, and Week 7 Project Summary in one document)
