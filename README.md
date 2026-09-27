@@ -35,3 +35,11 @@ Project runs 31 Aug 2026 – 17 March 2027 (24 active weeks; December fully excl
 # Week 7 Tasks 
 - Excel file with Testing & Validation Plan, Updated Timeline, Testing Activity Tracker, Integration & Issue Log, Updated Risk/Dependency Register, Decision Log, Coordination Record, Testing & Validation Record and Week 8 Readiness Assessment
 - Testing Coordination & Project Readiness Report (includes cross-track testing evidence, end-to-end validation, and Week 7 Project Summary in one document)
+
+# Week 8 
+- Week 8 Tasks — Final Integration & Presentation
+- Excel file with Final Workstream Status, Updated Timeline, Outstanding Issues/Dependency Register, Final Risk Register, Final Decision Log, Final Integration Record & Project Readiness Assessment
+- Final Project Management & Readiness Report (includes Final Integration Readiness, all PM tasks, mandatory HC-POD final integration evidence, and the End-to-End Integration Walkthrough)
+- Final Presentation Slide Deck
+
+# END OF PROJECT
